@@ -2,7 +2,7 @@
   "Ads": [
     {
 
-      "select_ads":"APPLOVIN-D",
+      "select_ads":"ADMOB",
       "select_backup_ads":"STARTAPP",
 
       "main_ads_inter":"ca-app-pub-1695933872897231/7627169079",
@@ -18,17 +18,17 @@
 
 
       "admob_native": "ca-app-pub-1695933872897231/4693883978",
-      "admob_open": "xx",
-      "admob_open2": "xx",
-      "open_only": "NO",
-      "lawas": "NO",
+      "admob_open": "ca-app-pub-1695933872897231/8441557297",
+      "admob_open2": "ca-app-pub-1695933872897231/3557765814",
+      "open_only": "MIX",
+      "lawas": "YES",
       "fan": "NO",
 
       "hpk1": "",
       "hpk2": "",
       "hpk3": "",
-      "hpk4": "car",
-      "hpk5": "vps",
+      "hpk4": "",
+      "hpk5": "",
 
       "main_puzzle": "YES",
       "status_app": "0879869867896879667567576",
