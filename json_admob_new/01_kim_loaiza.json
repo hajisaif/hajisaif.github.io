@@ -2,10 +2,10 @@
   "Ads": [
     {
 
-      "select_ads":"ADMOBX",
+      "select_ads":"ADMOB",
       "select_backup_ads":"STARTAPP",
 
-      "main_ads_inter":"DefaultInterstitial",
+      "main_ads_inter":"ca-app-pub-2310233460115723/9014157923",
       "main_ads_banner":"DefaultBanner",
 
       "backup_ads_inter":"DefaultInterstitial",
@@ -17,11 +17,11 @@
       "interval": 0,
 
 
-      "admob_native": "xx",
-      "admob_native2": "xx",
-      "admob_open": "xx",
-      "admob_open2": "xx",
-      "open_only": "NO",
+      "admob_native": "ca-app-pub-2310233460115723/4799580742",
+      "admob_native2": "ca-app-pub-2310233460115723/3486499077",
+      "admob_open": "ca-app-pub-2310233460115723/3849461153",
+      "admob_open2": "ca-app-pub-2310233460115723/1714445928",
+      "open_only": "MIX",
       "lawas": "NO",
       "fan": "NO",
 
