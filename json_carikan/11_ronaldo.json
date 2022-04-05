@@ -3,7 +3,7 @@
     {
 
       "select_main_ads":"ADMOB",
-      "select_backup_ads":"IRONX",
+      "select_backup_ads":"APPLOVIN-D",
 
       "main_ads_intertitial":"ca-app-pub-2310233460115723/6468343453",
       "main_ads_banner":"DefaultBanner",
@@ -18,7 +18,7 @@
 
       "admob_native": "ca-app-pub-2310233460115723/5851102641",
       "admob_open": "ca-app-pub-2310233460115723/8668320752",
-      "interval":0,
+      "interval":1,
 
       "hpk_1": "ca-app-pub-2310233460115723/3842180110",
       "hpk_2": "ca-app-pub-2310233460115723/6274925851",
