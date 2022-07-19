@@ -14,7 +14,7 @@
       "initialize_sdk":"INITIALIZE_SDK",
       "initialize_sdk_backup_ads":"204729745",
 
-      "interval_intertitial":1,
+      "interval_intertitial":0,
       "admob_native": "xxxxx",
       "admob_native2": "xxxxx",
       "admob_open": "xxxxx",
