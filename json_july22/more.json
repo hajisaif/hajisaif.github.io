@@ -1,12 +1,12 @@
 {
 
-"More":
+  "More":
   [
     {
       "id":1,
-      "title":"BTS JUNGKOOK",
-      "image":"https://play-lh.googleusercontent.com/4PVJnUoITKCqpH1pS4DBuucLohr5h1Xf46jRH2IRddWUYMyM4zIk2As6P5haUKRRyAI=s360",
-      "link":"https://play.google.com/store/apps/details?id=com.mycity.jungkook_fakechat_fakecall"
+      "title":"CALL JIMIN",
+      "image":"https://play-lh.googleusercontent.com/73u84K-3McJV6u32XCSlZ2WoFWL2jmufE2gOo19D9w1uJWL_jJWC5xtemY0Q9gUAlpg=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.mycity.jimin_fakechat_fakecall"
     },
     {
       "id":2,
@@ -19,6 +19,30 @@
       "title":"KIM LOAIZA",
       "image":"https://play-lh.googleusercontent.com/axFbw5pdYIsbItCgGpG9kdi5UBgMm39pZsrddVA1NVXKRo4XttGw9pTrduacXZggnt4=s360",
       "link":"https://play.google.com/store/apps/details?id=com.taehyung.kim_loaiza"
+    },
+    {
+      "id":4,
+      "title":"SUGA",
+      "image":"https://play-lh.googleusercontent.com/5-ADaGNHtqEKE9px76Dm5Lr5nKC29P3hlmqoigt6XLBQ27hZzlyTsnxI9PvXWWuB5A=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.mycity.suga_fakechat_fakecall"
+    },
+    {
+      "id":5,
+      "title":"JIN",
+      "image":"https://play-lh.googleusercontent.com/CwcLZYELuNZIF9FsL5nhXkLcoYwZ1enRZzsnSbi7hiVNUXexBljRdVkPdxWZh-lIeyo=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.mycity.jin_fakechat_fakecall"
+    },
+    {
+      "id":6,
+      "title":"NASTYA",
+      "image":"https://play-lh.googleusercontent.com/4MGPX5hkuJr1xwn1vhcPnAGPao8Ao_ZqlADuhVu4OtbsZmQAPsA_WsRMxDqOx__q1Q=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.mycity.nastya_fakechat_fakecall"
+    },
+    {
+      "id":7,
+      "title":"BELLA POARCH",
+      "image":"https://play-lh.googleusercontent.com/4a0w2JsYlZX4ieWEiLldjObv0uJKqZYDz17OI9shAYwDJ1162S_v9-9LFue1j0vnucWw=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.mycity.bella_poarch_fakechat_fakecall"
     }
   ]
 
