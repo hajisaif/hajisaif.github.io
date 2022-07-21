@@ -3,7 +3,7 @@
     {
 
       "select_ads":"ADMOBX",
-      "select_backup_ads":"STARTAPPX",
+      "select_backup_ads":"STARTAPP",
 
       "main_ads_inter":"DefaultInterstitial",
       "main_ads_banner":"DefaultBanner",
