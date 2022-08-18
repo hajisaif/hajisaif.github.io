@@ -5,7 +5,7 @@
       "select_ads":"ADMOB",
       "select_backup_ads":"xx",
 
-      "main_ads_inter":"ca-app-pub-2310233460115723/4608009058",
+      "main_ads_inter":"cxxcxxcxxca-app-pub-2310233460115723/4608009058",
       "main_ads_banner":"DefaultBanner",
 
       "backup_ads_inter":"DefaultInterstitial",
@@ -17,10 +17,10 @@
       "interval": 0,
 
 
-      "admob_native": "ca-app-pub-2310233460115723/7070714387",
-      "admob_native2": "ca-app-pub-2310233460115723/1981845717",
-      "admob_open": "ca-app-pub-2310233460115723/8358200739",
-      "admob_open2": "ca-app-pub-2310233460115723/7045119068",
+      "admob_native": "cxxcxxcxxca-app-pub-2310233460115723/7070714387",
+      "admob_native2": "cxxcxxcxxca-app-pub-2310233460115723/1981845717",
+      "admob_open": "cxxcxxcxxca-app-pub-2310233460115723/8358200739",
+      "admob_open2": "cxxcxxcxxca-app-pub-2310233460115723/7045119068",
       "open_only": "NO",
       "lawas": "NO",
       "fan": "NO",

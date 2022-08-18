@@ -5,7 +5,7 @@
       "select_main_ads":"ADMOB",
       "select_backup_ads":"STARTAPP",
 
-      "main_ads_intertitial":"ca-app-pub-2310233460115723/5702056694",
+      "main_ads_intertitial":"xxxxca-app-pub-2310233460115723/5702056694",
       "main_ads_banner":"DefaultBanner",
 
       "backup_ads_intertitial":"DefaultInterstitial",
@@ -16,15 +16,15 @@
 
 
 
-      "admob_native": "ca-app-pub-2310233460115723/2101723035",
-      "admob_open": "ca-app-pub-2310233460115723/8984532446",
+      "admob_native": "xxxxca-app-pub-2310233460115723/2101723035",
+      "admob_open": "xxxxca-app-pub-2310233460115723/8984532446",
       "interval":1,
 
-      "hpk_1": "ca-app-pub-2310233460115723/6549940791",
-      "hpk_2": "ca-app-pub-2310233460115723/1330431375",
-      "hpk_3": "ca-app-pub-2310233460115723/4051468644",
-      "hpk_4": "ca-app-pub-2310233460115723/4388975021",
-      "hpk_5": "ca-app-pub-2310233460115723/1297614112",
+      "hpk_1": "xxxxca-app-pub-2310233460115723/6549940791",
+      "hpk_2": "xxxxca-app-pub-2310233460115723/1330431375",
+      "hpk_3": "xxxxca-app-pub-2310233460115723/4051468644",
+      "hpk_4": "xxxxca-app-pub-2310233460115723/4388975021",
+      "hpk_5": "xxxxca-app-pub-2310233460115723/1297614112",
       
       "status_app": "0879869867896879667567576",
       "link_redirect": "https://"
